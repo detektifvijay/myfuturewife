@@ -16,16 +16,6 @@
 <title>Terimakasih Ya Sayangkuh</title>
 <link rel="icon" type="image/x-icon" href="https://malasid.github.io/favicon.png">
 <meta name="description" content="HTML Bucin Malas.id">
-<!-- 
-  Made with love by Rayys!
-  
-     Blog: feeldream.id
-     Instagram: @rayyarrr
-     TikTok: @feelthisray
-     Email: rayyar73@gmail.com
-     
-  Thanks to all <3
--->
 </head>
 <body>
 	
@@ -33,7 +23,7 @@
    <audio src="https://feeldreams.github.io/audio/nightchanges.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
-     <!-- Wallpaper / Background --><img src="https://feeldreams.github.io/pics/awan.jpg" id="wallpaper"/>
+     <!-- Wallpaper / Background --><img src="https://feeldreams.github.io/pics/awan.jpg" id="wallpaper">
    </div>
    
    <div id='Content'>
